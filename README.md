@@ -9,7 +9,7 @@ Just use the requirments.txt file to install all the dependencies
 ```bash
 pip install requirments.txt
 ```
-## License
+## Learning
 [Django documentation](https://docs.djangoproject.com/en/4.0/) 
 
 [Platzi course](https://platzi.com/cursos/django-intermedio/)
